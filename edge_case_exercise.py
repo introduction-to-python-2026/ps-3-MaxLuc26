@@ -17,5 +17,3 @@ def move(my_list, direction):
 
     else:
         return my_list
-
-    return my_list
